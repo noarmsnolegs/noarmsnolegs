@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=noarmsnolegs&color=798ece&style=for-the-badge&label=pwned)
 <p align="center">
   <img src="https://i.postimg.cc/289xG09Y/tumblr-180523a602f49a80ac0c5bb0691ed55d-5a5cc92e-1280-ezgif-com-resize.gif" />
 </p>
