@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=8rw6gwwfuu8pwnxz7vxtl9fbc&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8rw6gwwfuu8pwnxz7vxtl9fbc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=d72436&bar_color_cover=false">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=8rw6gwwfuu8pwnxz7vxtl9fbc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=2596be&bar_color_cover=false">
   </a>
 </p>
 <h2></h2>
@@ -9,5 +9,5 @@
     <a href="https://www.last.fm/user/necronyamicon">last.fm</a>
 </p>
 <p align="center">
-    <img src="https://i.postimg.cc/7hJngT73/image-2026-02-16-162354588.png">
+    <img src="https://64.media.tumblr.com/3d9072a1ac78418018b8e506d50e710c/e4eccd3b03350099-50/s2048x3072/b663222726002da85c925ce20d4d0eaa333f3a66.png">
 </p>
