@@ -4,7 +4,7 @@
   </a>
 </p>
 <h2></h2>
-<p align="center">everything is wip ok.</p>
+<p align="center">𖨆</p>
 <p align="center">
     <a href="https://www.last.fm/user/necronyamicon">last.fm</a>
 </p>
